@@ -1,0 +1,739 @@
+Search path: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/services
+Config file name: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/tsconfig.json
+Angular Language Service: 8.0.3
+TypeScript: 3.4.5
+getTemplateReferences: 4310ms
+Add recursive watcher for: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp
+Opened configuration file c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/tsconfig.json
+getDiagnostics: 9ms
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/SubjectSubscription.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/AsyncSubject.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/Subscription.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/observable/generate.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/observable/bindCallback.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/observable/merge.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/observable/empty.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/observable/onErrorResumeNext.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/observable/throw.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/observable/zip.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/typescript-5e1bddf5/lib/lib.dom.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/typescript-5e1bddf5/lib/lib.es2015.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/typescript-5e1bddf5/lib/lib.es2015.symbol.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/typescript-5e1bddf5/lib/lib.es2015.symbol.wellknown.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/first.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/concatMap.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/moment-863de447/moment.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/let.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/concatMapTo.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/merge.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/observeOn.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/bufferWhen.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/pluck.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/publish.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/dematerialize.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/race.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/repeatWhen.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/typescript-5e1bddf5/lib/lib.es2017.intl.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/catch.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/typescript-5e1bddf5/lib/lib.es2017.object.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/typescript-5e1bddf5/lib/lib.es2017.sharedmemory.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/sample.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/sampleTime.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/share.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/takeLast.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/typescript-5e1bddf5/lib/lib.es2018.promise.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/combineLatest.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/typescript-5e1bddf5/lib/lib.es2018.regexp.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/takeWhile.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/exhaustMap.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/throttle.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/bufferCount.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/throttleTime.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/timeout.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/concat.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/windowCount.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/auditTime.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/windowTime.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/zip.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/add/operator/findIndex.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/typescript-5e1bddf5/lib/lib.webworker.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/typescript-5e1bddf5/lib/protocol.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/observable/UsingObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/observable/NeverObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/observable/ScalarObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/observable/SubscribeOnObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/observable/ErrorObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/observable/bindCallback.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/observable/bindNodeCallback.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/observable/combineLatest.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/observable/FromEventObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/observable/interval.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/observable/of.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/observable/IntervalObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/observable/throw.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/ignoreElements.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/concatMap.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/isEmpty.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/audit.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/merge.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/mergeAll.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/debounce.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/mergeMap.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/observeOn.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/publish.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/delayWhen.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/publishBehavior.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/buffer.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/publishLast.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/publishReplay.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/dematerialize.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/race.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/reduce.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/repeat.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/distinct.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/distinctUntilKeyChanged.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/sequenceEqual.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/startWith.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/subscribeOn.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/takeLast.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/combineLatest.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/withLatestFrom.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/zip.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/findIndex.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/zipAll.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/operator/concatAll.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/scheduler/QueueAction.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/scheduler/AsyncAction.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/scheduler/AsyncScheduler.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/scheduler/AnimationFrameScheduler.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/scheduler/queue.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/Scheduler.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/InnerSubscriber.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/fsevents-f123df5f/node_modules/safe-buffer/index.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/observable/if.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/observable/bindCallback.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/observable/combineLatest.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/observable/concat.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/observable/defer.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/observable/fromPromise.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/observable/generate.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/observable/bindNodeCallback.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/observable/interval.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/observable/zip.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/multicast.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/audit.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/buffer.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/bufferCount.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/bufferTime.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/bufferToggle.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/bufferWhen.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/catch.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/ignoreElements.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/isEmpty.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/last.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/auditTime.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/observeOn.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/onErrorResumeNext.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/pairwise.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/partition.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/pluck.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/scan.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/sequenceEqual.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/share.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/single.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/skip.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/skipUntil.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/add/operator/withLatestFrom.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/observable/PromiseObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/observable/RangeObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/observable/ScalarObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/observable/SubscribeOnObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/observable/dom/AjaxObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/observable/dom/MiscJSDoc.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/observable/dom/WebSocketSubject.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/observable/dom/ajax.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/observable/dom/webSocket.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/observable/empty.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/observable/forkJoin.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/observable/from.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/typescript-5e1bddf5/lib/typescript.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/bufferWhen.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/catch.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/count.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/debounce.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/debounceTime.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/defaultIfEmpty.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/delay.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/delayWhen.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/dematerialize.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/distinct.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/ignoreElements.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/mergeAll.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/mergeMap.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/mergeMapTo.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/mergeScan.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/pluck.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/publish.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/publishBehavior.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/publishLast.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/publishReplay.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/race.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/switchMapTo.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/take.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/takeLast.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/takeUntil.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/takeWhile.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/throttle.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/throttleTime.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/timeInterval.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/timeout.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/timeoutWith.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/timestamp.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/toArray.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/toPromise.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/window.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/operator/windowCount.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/scheduler/AsapAction.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/scheduler/AsapScheduler.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/scheduler/AsyncAction.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/scheduler/AsyncScheduler.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/scheduler/AnimationFrameAction.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/symbol/rxSubscriber.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/testing/ColdObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/testing/HotObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/testing/SubscriptionLog.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/testing/SubscriptionLoggable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/testing/TestMessage.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/testing/TestScheduler.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/errorObject.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/AnimationFrame.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/EmptyError.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/FastMap.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/Immediate.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/Map.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/MapPolyfill.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/ObjectUnsubscribedError.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/Set.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/TimeoutError.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/UnsubscriptionError.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/applyMixins.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/assign.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/ArgumentOutOfRangeError.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/isArray.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/isDate.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/isFunction.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/isNumeric.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/isObject.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/isPromise.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/isScheduler.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/noop.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/not.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/root.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/subscribeToResult.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/toSubscriber.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/src/util/tryCatch.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/testing/HotObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/testing/ColdObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/testing/TestMessage.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/testing/TestScheduler.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/testing/SubscriptionLog.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/util/Map.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/util/isFunction.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/util/toSubscriber.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/.staging/rxjs-fa418448/util/tryCatch.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/node_modules/fsevents/node_modules/safe-buffer/index.d.ts
+getDiagnostics: 66ms
+updating project structure from ...
+updated: ng - 57ms
+remove project: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/e2e/src/app.e2e-spec.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/e2e/src/app.po.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/main.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/polyfills.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/test.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/app.component.spec.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/app.component.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/app.module.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/app.routes.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/artista/artista.component.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/home/home.component.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/search/search.component.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/shared/loading/loading.component.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/shared/navbar/navbar.component.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/tarjetas/tarjetas.component.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/pipes/noimage.pipe.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/services/spotify.service.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/environments/environment.prod.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/environments/environment.ts
+Search path: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/services
+Config file name: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/tsconfig.json
+Angular Language Service: 8.0.3
+TypeScript: 3.4.5
+getTemplateReferences: 6974ms
+Add recursive watcher for: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp
+Opened configuration file c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/tsconfig.json
+getDiagnostics: 2ms
+remove project: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/e2e/src/app.e2e-spec.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/e2e/src/app.po.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/main.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/polyfills.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/test.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/app.component.spec.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/app.component.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/app.module.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/app.routes.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/artista/artista.component.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/home/home.component.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/search/search.component.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/shared/loading/loading.component.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/shared/navbar/navbar.component.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/tarjetas/tarjetas.component.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/pipes/noimage.pipe.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/services/spotify.service.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/environments/environment.prod.ts,c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/environments/environment.ts
+Search path: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/artista
+Config file name: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/tsconfig.json
+Angular Language Service: 8.0.3
+TypeScript: 3.4.5
+getTemplateReferences: 3444ms
+Add recursive watcher for: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp
+Opened configuration file c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 81ms
+getCompletions: 69ms
+getDiagnostics: 98ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 139ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 106ms
+getDiagnostics: 73ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 128ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 273ms
+getDiagnostics: 43ms
+getDiagnostics: 151ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 151ms
+getDiagnostics: 8ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 168ms
+getDiagnostics: 20ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 99ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 202ms
+getCompletions: 293ms
+getDiagnostics: 100ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 146ms
+getDiagnostics: 58ms
+getDiagnostics: 114ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 172ms
+getDiagnostics: 111ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+Search path: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/artista
+Config file name: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 342ms
+getDiagnostics: 132ms
+getCompletions: 112ms
+getDiagnostics: 73ms
+getDiagnostics: 121ms
+getDiagnostics: 129ms
+getCompletions: 186ms
+getDiagnostics: 118ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 142ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 354ms
+Search path: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/artista
+Config file name: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 136ms
+getDiagnostics: 91ms
+getDefinitionAt: 7ms
+getDefinitionAt: 7ms
+getDefinitionAt: 6ms
+getDefinitionAt: 9ms
+getDefinitionAt: 16ms
+getDefinitionAt: 17ms
+getDefinitionAt: 13ms
+getDefinitionAt: 16ms
+getDefinitionAt: 12ms
+getDefinitionAt: 19ms
+getDefinitionAt: 11ms
+getDefinitionAt: 10ms
+getDefinitionAt: 10ms
+getDefinitionAt: 11ms
+getDefinitionAt: 9ms
+getDefinitionAt: 9ms
+getDefinitionAt: 10ms
+getDefinitionAt: 6ms
+getDefinitionAt: 5ms
+getDefinitionAt: 5ms
+getDefinitionAt: 7ms
+getDefinitionAt: 6ms
+getDefinitionAt: 7ms
+getDefinitionAt: 6ms
+getDefinitionAt: 5ms
+getDefinitionAt: 12ms
+getDefinitionAt: 6ms
+getDefinitionAt: 10ms
+getDefinitionAt: 4ms
+getDefinitionAt: 7ms
+getDefinitionAt: 5ms
+getDefinitionAt: 8ms
+getHoverAt: 11ms
+getHoverAt: 10ms
+getDiagnostics: 128ms
+Search path: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/artista
+Config file name: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 259ms
+getDiagnostics: 66ms
+getCompletions: 70ms
+getDiagnostics: 112ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 46ms
+getDiagnostics: 61ms
+getDiagnostics: 141ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 171ms
+getDiagnostics: 271ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getCompletions: 144ms
+getDiagnostics: 10ms
+getDiagnostics: 168ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getHoverAt: 14ms
+getCompletions: 117ms
+getDiagnostics: 119ms
+getDiagnostics: 100ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 158ms
+Search path: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/src/app/components/artista
+Config file name: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/04-spotiapp/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 201ms
+getDiagnostics: 76ms
+getHoverAt: 138ms
+Search path: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/src/app/tab1
+Config file name: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/tsconfig.json
+Angular Language Service: 8.0.3
+TypeScript: 3.4.5
+getTemplateReferences: 4262ms
+Add recursive watcher for: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos
+Opened configuration file c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getHoverAt: 18ms
+getDiagnostics: 23ms
+getHoverAt: 23ms
+getHoverAt: 10ms
+getCompletions: 84ms
+getCompletions: 246ms
+getCompletions: 104ms
+getDiagnostics: 83ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 0ms
+getDiagnostics: 198ms
+Search path: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/src/app/tab1
+Config file name: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+updating project structure from ...
+getTemplateReferences: 0ms
+updated: ng - 169ms
+getDiagnostics: 37ms
+getHoverAt: 4ms
+getHoverAt: 77ms
+getDefinitionAt: 14ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getHoverAt: 9ms
+getDefinitionAt: 9ms
+Search path: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/@ionic/angular/dist/directives
+Config file name: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/tsconfig.json
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getTemplateReferences: 0ms
+getDiagnostics: 8ms
+Search path: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/src/app/tab1
+Config file name: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 4ms
+getHoverAt: 47ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+getHoverAt: 0ms
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/Operator.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/Rx.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/SubjectSubscription.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/Subscriber.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/observable/fromEvent.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/observable/fromEventPattern.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/observable/concat.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/observable/interval.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/observable/never.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/observable/dom/ajax.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/observable/dom/webSocket.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/typescript-da4fbf3d/lib/lib.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/observable/timer.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/observable/zip.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/typescript-da4fbf3d/lib/lib.es2015.symbol.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/typescript-da4fbf3d/lib/lib.es2015.symbol.wellknown.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/typescript-da4fbf3d/lib/lib.es2016.full.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/first.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/concatMap.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/isEmpty.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/map.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/audit.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/typescript-da4fbf3d/lib/lib.es2017.full.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/merge.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/debounce.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/mergeScan.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/debounceTime.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/defaultIfEmpty.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/onErrorResumeNext.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/partition.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/bufferWhen.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/typescript-da4fbf3d/lib/lib.es2017.intl.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/typescript-da4fbf3d/lib/lib.es2017.string.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/publish.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/publishLast.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/race.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/repeatWhen.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/catch.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/scan.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/share.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/skip.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/take.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/fsevents-874e6c13/node_modules/iconv-lite/lib/index.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/exhaust.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/takeWhile.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/fsevents-a528a6b4/node_modules/iconv-lite/lib/index.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/throttleTime.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/fsevents-58a64cc5/node_modules/iconv-lite/lib/index.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/timeInterval.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/expand.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/timestamp.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/filter.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/toArray.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/fsevents-a376bdd4/node_modules/iconv-lite/lib/index.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/finally.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/add/operator/windowWhen.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/observable/PairsObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/observable/PromiseObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/observable/EmptyObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/observable/BoundCallbackObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/observable/SubscribeOnObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/observable/bindCallback.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/observable/dom/ajax.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/observable/from.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/observable/interval.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/observable/ConnectableObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/observable/of.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/observable/range.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/observable/IntervalObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/observable/throw.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/last.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/materialize.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/count.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/max.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/debounce.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/min.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/delayWhen.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/publishReplay.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/dematerialize.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/repeat.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/distinct.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/scan.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/distinctUntilKeyChanged.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/sequenceEqual.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/single.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/skipWhile.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/elementAt.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/startWith.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/subscribeOn.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/timestamp.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/filter.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/toArray.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/concat.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/toPromise.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/window.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/operator/zip.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/scheduler/AsyncScheduler.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/scheduler/AnimationFrameScheduler.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/scheduler/QueueScheduler.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/scheduler/VirtualTimeScheduler.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/scheduler/AnimationFrameAction.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/scheduler/Action.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/Scheduler.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/fsevents-a376bdd4/node_modules/safe-buffer/index.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/Observer.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/Operator.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/OuterSubscriber.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/observable/if.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/observable/dom/ajax.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/observable/dom/webSocket.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/observable/fromPromise.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/observable/onErrorResumeNext.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/observable/pairs.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/observable/race.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/concatMapTo.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/count.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/debounce.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/elementAt.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/every.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/exhaust.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/map.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/mergeMap.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/mergeMapTo.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/mergeScan.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/publishBehavior.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/retryWhen.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/sample.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/sampleTime.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/take.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/takeLast.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/timeout.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/toArray.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/toPromise.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/window.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/windowCount.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/add/operator/zipAll.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/UsingObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/BoundNodeCallbackObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/FromEventPatternObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/FromObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/IfObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/IntervalObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/IteratorObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/ArrayObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/bindCallback.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/dom/ajax.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/dom/webSocket.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/fromEvent.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/fromPromise.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/if.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/never.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/of.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/pairs.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/range.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/throw.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/timer.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/observable/using.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/multicast.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/audit.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/bufferTime.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/bufferToggle.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/bufferWhen.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/exhaust.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/exhaustMap.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/expand.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/filter.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/finally.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/find.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/findIndex.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/first.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/pairwise.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/partition.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/typescript-da4fbf3d/lib/typescript.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/pluck.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/scan.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/sequenceEqual.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/share.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/single.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/skip.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/skipUntil.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/skipWhile.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/startWith.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/subscribeOn.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/switch.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/switchMap.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/switchMapTo.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/take.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/takeLast.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/takeUntil.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/takeWhile.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/throttle.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/throttleTime.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/timeInterval.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/timeout.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/timeoutWith.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/timestamp.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/toArray.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/toPromise.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/window.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/windowCount.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/windowTime.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/operator/windowToggle.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/symbol/iterator.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/symbol/observable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/symbol/rxSubscriber.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/testing/ColdObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/testing/HotObservable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/testing/SubscriptionLog.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/testing/SubscriptionLoggable.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/testing/TestMessage.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/testing/TestScheduler.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/util/errorObject.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/util/AnimationFrame.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/util/EmptyError.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/util/FastMap.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/util/Immediate.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/util/Map.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/util/MapPolyfill.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/util/ObjectUnsubscribedError.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/util/Set.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/util/TimeoutError.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/util/UnsubscriptionError.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/util/applyMixins.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/util/assign.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/src/util/ArgumentOutOfRangeError.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/testing/SubscriptionLoggable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/testing/HotObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/testing/ColdObservable.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/testing/TestMessage.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/testing/TestScheduler.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/testing/SubscriptionLog.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/util/TimeoutError.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/util/FastMap.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/util/UnsubscriptionError.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/util/ArgumentOutOfRangeError.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/util/applyMixins.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/util/assign.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/util/Immediate.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/util/errorObject.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/util/AnimationFrame.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/util/isArray.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/util/isDate.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/util/Map.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/rxjs-03be0f66/util/isFunction.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/.staging/typescript-da4fbf3d/lib/typescriptServices.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/@angular/compiler-cli/node_modules/fsevents/node_modules/safe-buffer/index.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/angular-ide/node_modules/fsevents/node_modules/safe-buffer/index.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/karma/node_modules/fsevents/node_modules/safe-buffer/index.d.ts
+Detected source file changes: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/node_modules/watchpack/node_modules/fsevents/node_modules/safe-buffer/index.d.ts
+getHoverAt: 0ms
+Search path: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/src/app
+Config file name: c:/Users/gusta/OneDrive/Documentos/Cursos/Angular/05-deseos/tsconfig.json
+getTemplateReferences: 0ms
+getDiagnostics: 210ms
+getHoverAt: 1ms

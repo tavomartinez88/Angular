@@ -1,0 +1,493 @@
+!SESSION 2019-08-15 23:29:08.500 -----------------------------------------------
+eclipse.buildId=18.0.0.CI-AI
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_AR
+Framework arguments:  -product com.genuitec.eclipse.code.angularide.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.genuitec.eclipse.code.angularide.product
+
+!ENTRY com.genuitec.eclipse.code.ui 1 0 2019-08-15 23:30:20.803
+!MESSAGE CodeMix Engine will be started momentarily to support development activities
+
+!ENTRY org.eclipse.ui 2 0 2019-08-15 23:30:22.900
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-08-15 23:30:22.900
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2019-08-15 23:30:24.522
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2019-08-15 23:30:24.556
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-08-15 23:30:32.671
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\gusta'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:30:33.322
+!MESSAGE CodeMix Engine needs to be installed; new installation
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 17 2019-08-15 23:31:02.013
+!MESSAGE Server ‘org.eclipse.epp.logging.aeri.ide.server’ failed with exception: Read timed out. ; version: 2.0.7.v20180504-0806
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at sun.security.ssl.InputRecord.readFully(Unknown Source)
+	at sun.security.ssl.InputRecord.read(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(Unknown Source)
+	at sun.security.ssl.AppInputStream.read(Unknown Source)
+	at org.apache.http.impl.conn.LoggingInputStream.read(LoggingInputStream.java:84)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:282)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:165)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:111)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at org.apache.http.client.fluent.Request.internalExecute(Request.java:173)
+	at org.apache.http.client.fluent.Executor.execute(Executor.java:262)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.request(IO.java:170)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.refreshConfiguration(IO.java:64)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerConnection.startUp(ServerConnection.java:124)
+	at com.google.common.util.concurrent.AbstractIdleService$DelegateService$1.run(AbstractIdleService.java:62)
+	at com.google.common.util.concurrent.Callables$4.run(Callables.java:122)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:31:03.573
+!MESSAGE Initializing CodeMix Engine's settings file at C:\Users\gusta\OneDrive\Documentos\Cursos\Angular\.metadata\codemix.code-workspace
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:31:09.448
+!MESSAGE CodeMix Engine engine has been started
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:31:55.105
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/codemix.angular.0.9.4.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:31:56.377
+!MESSAGE Installing codemix.angular.0.9.4.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:31:56.845
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/formulahendry.auto-close-tag.0.5.6.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:31:59.751
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/mkaufman.HTMLHint.0.6.0.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:31:59.752
+!MESSAGE Installing formulahendry.auto-close-tag.0.5.6.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:05.517
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/ms-vscode.vscode-typescript-tslint-plugin.1.2.2.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:05.518
+!MESSAGE Installing mkaufman.HTMLHint.0.6.0.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:07.846
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/codemix.web.0.9.7.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:09.161
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/christian-kohler.path-intellisense.1.4.2.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:11.000
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/codemix.node.0.9.3.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:13.898
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/formulahendry.code-runner.0.9.10.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:17.402
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/msjsdiag.debugger-for-chrome.4.11.5.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:19.114
+!MESSAGE Installing ms-vscode.vscode-typescript-tslint-plugin.1.2.2.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:20.571
+!MESSAGE Installing codemix.web.0.9.7.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:20.883
+!MESSAGE Installing christian-kohler.path-intellisense.1.4.2.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:22.109
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/Angular.ng-template.0.801.1.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:22.416
+!MESSAGE Installing codemix.node.0.9.3.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:22.592
+!MESSAGE Installing formulahendry.code-runner.0.9.10.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:24.721
+!MESSAGE Installing msjsdiag.debugger-for-chrome.4.11.5.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:56.570
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/dbaeumer.vscode-eslint.1.9.0.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:56.571
+!MESSAGE Installing Angular.ng-template.0.801.1.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:32:58.055
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/johnpapa.Angular2.8.1.1.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:33:02.959
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/xabikos.JavaScriptSnippets.1.7.2.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:33:03.428
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/formulahendry.auto-rename-tag.0.0.15.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:33:05.202
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/bradgashler.htmltagwrap.0.0.7.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:33:10.446
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/codemix.typescript.0.9.4.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:33:10.833
+!MESSAGE Downloading http://downloads.genuitec.com/downloads/codemix/extensions/robinbentley.sass-indented.1.5.1.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:33:43.782
+!MESSAGE Installing dbaeumer.vscode-eslint.1.9.0.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:33:44.150
+!MESSAGE Installing johnpapa.Angular2.8.1.1.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:33:44.807
+!MESSAGE Installing xabikos.JavaScriptSnippets.1.7.2.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:33:45.014
+!MESSAGE Installing formulahendry.auto-rename-tag.0.0.15.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:33:45.284
+!MESSAGE Installing bradgashler.htmltagwrap.0.0.7.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:33:46.613
+!MESSAGE Installing codemix.typescript.0.9.4.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:33:46.867
+!MESSAGE Installing robinbentley.sass-indented.1.5.1.vsix
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2019-08-15 23:33:49.900
+!MESSAGE The CodeMix Engine is being restarted to pick up latest extension changes
+
+!ENTRY org.eclipse.core.resources 4 2 2019-08-15 23:35:37.366
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.IllegalStateException: The connection has been closed.
+	at org.glassfish.tyrus.core.TyrusSession.checkConnectionState(TyrusSession.java:530)
+	at org.glassfish.tyrus.core.TyrusSession.getBasicRemote(TyrusSession.java:212)
+	at com.genuitec.eclipse.code.core.engine.SessionHandler.sendMessage(SessionHandler.java:724)
+	at com.genuitec.eclipse.code.core.engine.SessionHandler.access$2(SessionHandler.java:716)
+	at com.genuitec.eclipse.code.core.engine.SessionHandler$3.invoke(SessionHandler.java:688)
+	at com.sun.proxy.$Proxy28.initWorkspaceRoots(Unknown Source)
+	at com.genuitec.eclipse.code.core.engine.SessionHandler.registerProjects(SessionHandler.java:653)
+	at com.genuitec.eclipse.code.core.engine.ProjectRegistry.updateProjects(ProjectRegistry.java:177)
+	at com.genuitec.eclipse.code.core.engine.ProjectRegistry.lambda$0(ProjectRegistry.java:101)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:300)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:290)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:153)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:379)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1502)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1101)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.toExistingOrNewProject(SmartImportJob.java:556)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.run(SmartImportJob.java:252)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.eclipse.code.angular 4 0 2019-08-15 23:52:17.776
+!MESSAGE Timed out waiting for server to start. Please ensure you have angular-ide NPM plugin installed in your project. Run npm install --save-dev angular-ide.
+!STACK 1
+com.genuitec.eclipse.code.core.common.GenuitecCoreException: Timed out waiting for server to start. Please ensure you have angular-ide NPM plugin installed in your project. Run npm install --save-dev angular-ide.
+	at com.genuitec.eclipse.code.angular.server.AngularCLIProjectServerLaunchConfigDelegate.lambda$0(AngularCLIProjectServerLaunchConfigDelegate.java:212)
+	at com.genuitec.eclipse.code.vU.AS__11116alk23n42cana(Unknown Source)
+	at com.genuitec.eclipse.code.angular.server.AngularCLIProjectServerLaunchConfigDelegate.launch(AngularCLIProjectServerLaunchConfigDelegate.java:94)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:862)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:720)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:715)
+	at com.genuitec.eclipse.code.angular.server.AngularCLIProjectServerDelegate$3.run(AngularCLIProjectServerDelegate.java:163)
+	at com.genuitec.eclipse.code.common.core.node.server.delegate.NodejsProjectServerDelegate$ServerTasksJob.run(NodejsProjectServerDelegate.java:123)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.Exception: Timed out waiting for server to start. Please ensure you have angular-ide NPM plugin installed in your project. Run npm install --save-dev angular-ide.
+	at com.genuitec.eclipse.code.core.common.GenuitecCoreException.<init>(GenuitecCoreException.java:89)
+	at com.genuitec.eclipse.code.core.common.GenuitecCoreException.<init>(GenuitecCoreException.java:57)
+	... 9 more
+!SUBENTRY 1 com.genuitec.eclipse.code.angular 4 0 2019-08-15 23:52:17.777
+!MESSAGE Timed out waiting for server to start. Please ensure you have angular-ide NPM plugin installed in your project. Run npm install --save-dev angular-ide.
+!STACK 0
+java.lang.Exception: Timed out waiting for server to start. Please ensure you have angular-ide NPM plugin installed in your project. Run npm install --save-dev angular-ide.
+	at com.genuitec.eclipse.code.core.common.GenuitecCoreException.<init>(GenuitecCoreException.java:89)
+	at com.genuitec.eclipse.code.core.common.GenuitecCoreException.<init>(GenuitecCoreException.java:57)
+	at com.genuitec.eclipse.code.angular.server.AngularCLIProjectServerLaunchConfigDelegate.lambda$0(AngularCLIProjectServerLaunchConfigDelegate.java:212)
+	at com.genuitec.eclipse.code.vU.AS__11116alk23n42cana(Unknown Source)
+	at com.genuitec.eclipse.code.angular.server.AngularCLIProjectServerLaunchConfigDelegate.launch(AngularCLIProjectServerLaunchConfigDelegate.java:94)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:862)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:720)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:715)
+	at com.genuitec.eclipse.code.angular.server.AngularCLIProjectServerDelegate$3.run(AngularCLIProjectServerDelegate.java:163)
+	at com.genuitec.eclipse.code.common.core.node.server.delegate.NodejsProjectServerDelegate$ServerTasksJob.run(NodejsProjectServerDelegate.java:123)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 com.genuitec.eclipse.code.angular 4 0 2019-08-15 23:52:17.777
+!MESSAGE Timed out waiting for server to start. Please ensure you have angular-ide NPM plugin installed in your project. Run npm install --save-dev angular-ide.
+!STACK 0
+java.lang.Exception: Timed out waiting for server to start. Please ensure you have angular-ide NPM plugin installed in your project. Run npm install --save-dev angular-ide.
+	at com.genuitec.eclipse.code.core.common.GenuitecCoreException.<init>(GenuitecCoreException.java:89)
+	at com.genuitec.eclipse.code.core.common.GenuitecCoreException.<init>(GenuitecCoreException.java:57)
+	at com.genuitec.eclipse.code.angular.server.AngularCLIProjectServerLaunchConfigDelegate.lambda$0(AngularCLIProjectServerLaunchConfigDelegate.java:212)
+	at com.genuitec.eclipse.code.vU.AS__11116alk23n42cana(Unknown Source)
+	at com.genuitec.eclipse.code.angular.server.AngularCLIProjectServerLaunchConfigDelegate.launch(AngularCLIProjectServerLaunchConfigDelegate.java:94)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:862)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:720)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:715)
+	at com.genuitec.eclipse.code.angular.server.AngularCLIProjectServerDelegate$3.run(AngularCLIProjectServerDelegate.java:163)
+	at com.genuitec.eclipse.code.common.core.node.server.delegate.NodejsProjectServerDelegate$ServerTasksJob.run(NodejsProjectServerDelegate.java:123)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 2 2019-08-16 00:48:14.640
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.IllegalStateException: The connection has been closed.
+	at org.glassfish.tyrus.core.TyrusSession.checkConnectionState(TyrusSession.java:530)
+	at org.glassfish.tyrus.core.TyrusSession.getBasicRemote(TyrusSession.java:212)
+	at com.genuitec.eclipse.code.core.engine.SessionHandler.sendMessage(SessionHandler.java:724)
+	at com.genuitec.eclipse.code.core.engine.SessionHandler.access$2(SessionHandler.java:716)
+	at com.genuitec.eclipse.code.core.engine.SessionHandler$3.invoke(SessionHandler.java:688)
+	at com.sun.proxy.$Proxy28.initWorkspaceRoots(Unknown Source)
+	at com.genuitec.eclipse.code.core.engine.SessionHandler.registerProjects(SessionHandler.java:653)
+	at com.genuitec.eclipse.code.core.engine.ProjectRegistry.updateProjects(ProjectRegistry.java:177)
+	at com.genuitec.eclipse.code.core.engine.ProjectRegistry.lambda$0(ProjectRegistry.java:101)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:300)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:290)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:153)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:379)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1502)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1101)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.toExistingOrNewProject(SmartImportJob.java:556)
+	at org.eclipse.ui.internal.wizards.datatransfer.SmartImportJob.run(SmartImportJob.java:252)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.epp.mpc.core 1 0 2019-08-16 00:57:52.029
+!MESSAGE Cannot parse XML at URL http://marketplace.eclipse.org/dedicated_catalog_hosting/2671769/catalogs/api/p: Invalid response content: El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+!STACK 1
+org.eclipse.epp.mpc.core.service.UnmarshalException: Invalid response content: El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+	at org.eclipse.epp.internal.mpc.core.service.MarketplaceUnmarshaller.unmarshal(MarketplaceUnmarshaller.java:68)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:170)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultCatalogService.listCatalogs(DefaultCatalogService.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.ui.mpc.DeliveryPackageInstallFromCatalogHandler$ReadExternalMarketplacesWork.checkConnectivity(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.net.ConnectivityWorkJob.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 36; columnNumber: 3; El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at org.eclipse.epp.internal.mpc.core.service.MarketplaceUnmarshaller.unmarshal(MarketplaceUnmarshaller.java:64)
+	... 11 more
+Contains: Received response begins with:
+
+1: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+2:   "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+3: <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+
+!SUBENTRY 1 org.eclipse.epp.mpc.core 1 0 2019-08-16 00:57:52.029
+!MESSAGE Invalid response content: El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 36; columnNumber: 3; El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at org.eclipse.epp.internal.mpc.core.service.MarketplaceUnmarshaller.unmarshal(MarketplaceUnmarshaller.java:64)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:170)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultCatalogService.listCatalogs(DefaultCatalogService.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.ui.mpc.DeliveryPackageInstallFromCatalogHandler$ReadExternalMarketplacesWork.checkConnectivity(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.net.ConnectivityWorkJob.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.epp.mpc.core 1 0 2019-08-16 00:57:52.029
+!MESSAGE Received response begins with:
+
+1: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+2:   "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+3: <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+
+!SUBENTRY 1 org.eclipse.epp.mpc.core 1 0 2019-08-16 00:57:52.029
+!MESSAGE Invalid response content: El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 36; columnNumber: 3; El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at org.eclipse.epp.internal.mpc.core.service.MarketplaceUnmarshaller.unmarshal(MarketplaceUnmarshaller.java:64)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:170)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultCatalogService.listCatalogs(DefaultCatalogService.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.ui.mpc.DeliveryPackageInstallFromCatalogHandler$ReadExternalMarketplacesWork.checkConnectivity(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.net.ConnectivityWorkJob.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.epp.mpc.core 1 0 2019-08-16 00:57:52.029
+!MESSAGE Received response begins with:
+
+1: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+2:   "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+3: <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+
+
+!ENTRY org.eclipse.epp.mpc.core 1 0 2019-08-16 00:57:52.029
+!MESSAGE Cannot parse XML at URL http://marketplace.eclipse.org/dedicated_catalog_hosting/2704390/catalogs/api/p: Invalid response content: El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+!STACK 1
+org.eclipse.epp.mpc.core.service.UnmarshalException: Invalid response content: El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+	at org.eclipse.epp.internal.mpc.core.service.MarketplaceUnmarshaller.unmarshal(MarketplaceUnmarshaller.java:68)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:170)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultCatalogService.listCatalogs(DefaultCatalogService.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.ui.mpc.DeliveryPackageInstallFromCatalogHandler$ReadExternalMarketplacesWork.checkConnectivity(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.net.ConnectivityWorkJob.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 36; columnNumber: 3; El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at org.eclipse.epp.internal.mpc.core.service.MarketplaceUnmarshaller.unmarshal(MarketplaceUnmarshaller.java:64)
+	... 11 more
+Contains: Received response begins with:
+
+1: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+2:   "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+3: <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+
+!SUBENTRY 1 org.eclipse.epp.mpc.core 1 0 2019-08-16 00:57:52.029
+!MESSAGE Invalid response content: El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 36; columnNumber: 3; El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at org.eclipse.epp.internal.mpc.core.service.MarketplaceUnmarshaller.unmarshal(MarketplaceUnmarshaller.java:64)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:170)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultCatalogService.listCatalogs(DefaultCatalogService.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.ui.mpc.DeliveryPackageInstallFromCatalogHandler$ReadExternalMarketplacesWork.checkConnectivity(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.net.ConnectivityWorkJob.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.epp.mpc.core 1 0 2019-08-16 00:57:52.029
+!MESSAGE Received response begins with:
+
+1: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+2:   "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+3: <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+
+!SUBENTRY 1 org.eclipse.epp.mpc.core 1 0 2019-08-16 00:57:52.029
+!MESSAGE Invalid response content: El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 36; columnNumber: 3; El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at org.eclipse.epp.internal.mpc.core.service.MarketplaceUnmarshaller.unmarshal(MarketplaceUnmarshaller.java:64)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:170)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultCatalogService.listCatalogs(DefaultCatalogService.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.ui.mpc.DeliveryPackageInstallFromCatalogHandler$ReadExternalMarketplacesWork.checkConnectivity(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.net.ConnectivityWorkJob.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 2 org.eclipse.epp.mpc.core 1 0 2019-08-16 00:57:52.029
+!MESSAGE Received response begins with:
+
+1: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+2:   "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+3: <html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+
+
+!ENTRY com.genuitec.pulse.client.delivery.package.runtime.ui 4 0 2019-08-16 00:57:52.029
+!MESSAGE Could not access marketplace catalogs at http://marketplace.eclipse.org/dedicated_catalog_hosting/2671769
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 36; columnNumber: 3; El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at org.eclipse.epp.internal.mpc.core.service.MarketplaceUnmarshaller.unmarshal(MarketplaceUnmarshaller.java:64)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:170)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultCatalogService.listCatalogs(DefaultCatalogService.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.ui.mpc.DeliveryPackageInstallFromCatalogHandler$ReadExternalMarketplacesWork.checkConnectivity(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.net.ConnectivityWorkJob.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.pulse.client.delivery.package.runtime.ui 4 0 2019-08-16 00:57:52.029
+!MESSAGE Could not access marketplace catalogs at http://marketplace.eclipse.org/dedicated_catalog_hosting/2704390
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 36; columnNumber: 3; El tipo de elemento "link" debe finalizar por la etiqueta final coincidente "</link>".
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at org.eclipse.epp.internal.mpc.core.service.MarketplaceUnmarshaller.unmarshal(MarketplaceUnmarshaller.java:64)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:170)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:130)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:117)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultCatalogService.listCatalogs(DefaultCatalogService.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.ui.mpc.DeliveryPackageInstallFromCatalogHandler$ReadExternalMarketplacesWork.checkConnectivity(Unknown Source)
+	at com.genuitec.pulse.client.deliverypackage.runtime.net.ConnectivityWorkJob.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jface 2 0 2019-08-16 01:05:25.599
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-08-16 01:05:25.599
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(codemix.editor.action.commentLine,Toggle Comment,
+		,
+		Category(com.genuitec.eclipse.code.codeMix,CodeMix,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@28ff23a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	com.genuitec.eclipse.code.codeMixEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(com.genuitec.eclipse.code.ui.terminal.plus.copy,Copy,
+		,
+		Category(com.genuitec.eclipse.code.ui.terminal.plus.category,Terminal Plus Category,Terminal Plus Category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@36081176,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	com.genuitec.eclipse.code.ui.terminal.plus.EditContext,,,system)
